@@ -1,2 +1,6 @@
 
 /* Your CSS Code here. */
+div{
+	justify-content:center;
+	align-items:center;
+}
